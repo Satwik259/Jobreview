@@ -48,31 +48,31 @@ const Attlasian = () => {
       <section className="flex items-center space-x-4 mb-4">
         <img src={AttlassianLogo} className="h-[2rem] w-[2rem]" alt="logo" />
         <h1 className="text-xl font-semibold font-poppins">Atlassian</h1>
-        <button className="bg-blue-200 font-poppins text-blue-800 px-3 py-1 rounded-[0.8rem]">Follow</button>
+        <button className="bg-[#E0EBF9] shadow-xl font-poppins font-[700] text-[#003788] px-3 py-1 rounded-[0.8rem]">Follow</button>
       </section>
       <section className="grid grid-cols-3 gap-4">
         <div>
-          <p className=" text-[#6E6D6D] font-poppins font-semibold">Company size</p>
+          <p className=" text-[#6E6D6D] font-poppins font-[400]">Company size</p>
           <p className="font-poppins">1K-2K Employees</p>
         </div>
         <div>
-          <p className=" text-[#6E6D6D] font-poppins font-semibold">Sector</p>
+          <p className=" text-[#6E6D6D] font-poppins font-[400]">Sector</p>
           <p className="font-poppins">Information Technology, Infrastructure</p>
         </div>
         <div>
-          <p className="font-poppins text-[#6E6D6D] font-semibold">Founded In</p>
+          <p className="font-poppins text-[#6E6D6D] font-[400]">Founded In</p>
           <p className="font-poppins">2019</p>
         </div>
         <div>
-          <p className="font-poppins text-[#6E6D6D] font-semibold">Type</p>
+          <p className="font-poppins text-[#6E6D6D] font-[400]">Type</p>
           <p className="font-poppins">Private</p>
         </div>
         <div>
-          <p className=" text-[#6E6D6D] font-poppins font-semibold">Funding</p>
+          <p className=" text-[#6E6D6D] font-poppins font-[400]">Funding</p>
           <p className="font-poppins">Bootstrapped</p>
         </div>
         <div>
-          <p className=" text-[#6E6D6D] font-poppins font-semibold">Founded By</p>
+          <p className=" text-[#6E6D6D] font-poppins font-[400]">Founded By</p>
           <p className="font-poppins">Scott Farquhar, Mike Cannon-Brookes</p>
         </div>
       </section>

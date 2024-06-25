@@ -9,7 +9,7 @@ import Skilldetails from "./components/Skilldetails";
 function App() {
   return (
     <main className="flex w-screen" >
-    <div className="w-[80%]">
+    <div className="w-[75%]">
       <Header/>
       <Selection/>
       <JobDetails/>
@@ -17,7 +17,7 @@ function App() {
       <Aboutthejob/>
       <Attlasian/>
     </div>
-    <div className="w-[20%] pt-[10.5rem]">
+    <div className="w-[25%] pt-[10.5rem]">
       <RightSection/>
     </div>
     </main> 

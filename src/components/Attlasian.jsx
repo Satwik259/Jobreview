@@ -44,7 +44,7 @@ import AttlassianLogo from "../assets/Rectangle 43.png";
 
 const Attlasian = () => {
   return (
-    <section className="w-[90%] h-[14rem]  flex flex-col pl-[5rem]  mt-[2rem] space-y-4">
+    <section className="w-[90%] h-[12.4rem]  flex flex-col pl-[5rem]  mt-[2rem] space-y-4">
       <section className="flex items-center space-x-4 mb-4">
         <img src={AttlassianLogo} className="h-[2rem] w-[2rem]" alt="logo" />
         <h1 className="text-xl font-semibold font-poppins">Atlassian</h1>

@@ -13,7 +13,7 @@ function Header() {
             <div className="h-[3rem] gap-1 mr-4 rounded-[2rem] pl-1 w-[8rem] bg-[#DC4A2D] border-[2px] border-[#FCB4A5] flex items-center ">
             <PiSuitcase  className="h-[1.4rem] text-white  w-[1.4rem]"/>
                 <div>
-                <h1 className="text-[1.3rem] p-1 font-poppins  text-white ">Jobs</h1>
+                <h1 className="text-[1.rem] p-1 font-poppins  text-white ">Jobs</h1>
                 </div>
              </div>
            

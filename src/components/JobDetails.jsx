@@ -9,9 +9,9 @@ function JobDetails() {
    <div className="flex  pl-[2rem] w-[60%] justify-evenly items-center">
     <h1 className="text-3xl font-bold font-poppins">Senior Product Designer</h1>
     <p className="font-poppins">posted 2 days ago</p>
-    <div className="flex items-center border-[0.1rem] border-black rounded-[1rem] pl-2 pr-4">
-    <BsDot />
-    <p className="font-poppins text-[0.8rem]  "> 
+    <div className="flex items-center border-[0.1rem] border-[#ABEFC6] bg-[#ECFDF3]  rounded-[1rem] pl-2 pr-4">
+    <BsDot className="text-[#17B26A]" />
+    <p className="font-poppins text-[0.8rem]  text-[#067647] "> 
    Open </p>
    </div>
     </div>
